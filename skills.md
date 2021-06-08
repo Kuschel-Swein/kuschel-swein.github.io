@@ -1,5 +1,5 @@
 # Skills
-Here you can view some skills I've got.
+Here you can view some skills I sort of own.
 
 ## Programming languages
 
