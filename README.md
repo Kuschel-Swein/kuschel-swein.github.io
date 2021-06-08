@@ -1,5 +1,3 @@
-## Kuschel's GitHub
+## Welcome
 
-Willkommen auf dem GitHub von Kuschel_Swein, hier wirst du weitestgehend PHP, JS, HTML & Java Projekte finden.
-
-Viele meiner Repos sind auf Private.
+Welcome to my sort of website - hosted on github pages.
