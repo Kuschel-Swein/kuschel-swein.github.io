@@ -6,6 +6,9 @@ $primary-active: #ff5500;
 $header-bg-color: $primary;
 $header-bg-color-secondary: $primary-active;
 
+$section-headings-color: $primary;
+$body-link-color: $primary;
+
 @import "{{ site.theme }}";
 
 .side-footer {
